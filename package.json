@@ -1,7 +1,7 @@
 {
-  "name": "xctestwd-frameworks-100",
+  "name": "xctestwd-frameworks",
   "version": "1.0.0",
-  "description": "xctestwd frameworks for xcode 10.0",
+  "description": "xctestwd frameworks for xcode",
   "keywords": ["xctestwd"],
   "files": [
     "Carthage/Build/iOS/AEXML.framework",
